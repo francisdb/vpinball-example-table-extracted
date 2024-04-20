@@ -1,0 +1,40 @@
+{
+  "HitTarget": {
+    "position": {
+      "x": 737.3605,
+      "y": 1090.8746,
+      "z": 0.0
+    },
+    "size": {
+      "x": 32.0,
+      "y": 32.0,
+      "z": 32.0
+    },
+    "rot_z": 70.0,
+    "image": "droptargetbeveled",
+    "target_type": 1,
+    "name": "sw1",
+    "material": "Plastic",
+    "is_visible": true,
+    "is_legacy": false,
+    "use_hit_event": true,
+    "threshold": 2.0,
+    "elasticity": 0.35,
+    "elasticity_falloff": 0.5,
+    "friction": 0.15,
+    "scatter": 5.0,
+    "is_collidable": true,
+    "disable_lighting_top_old": 0.0,
+    "disable_lighting_top": null,
+    "disable_lighting_below": 0.0,
+    "depth_bias": 0.0,
+    "is_reflection_enabled": true,
+    "is_dropped": false,
+    "drop_speed": 0.5,
+    "is_timer_enabled": false,
+    "timer_interval": 2000,
+    "raise_delay": 100,
+    "physics_material": "",
+    "overwrite_physics": true
+  }
+}

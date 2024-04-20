@@ -1,0 +1,461 @@
+[
+  {
+    "name": "ballrelease",
+    "path": "C:\\VPX\\sounds\\ballrelease.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "drain",
+    "path": "C:\\VPX\\sounds\\drain.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "flip_hit_1",
+    "path": "C:\\VPX\\sounds\\flip_hit_1.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "flip_hit_2",
+    "path": "C:\\VPX\\sounds\\flip_hit_2.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "flip_hit_3",
+    "path": "C:\\VPX\\sounds\\flip_hit_3.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling0",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling0.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling1",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling1.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling2",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling2.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling3",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling3.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling4",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling4.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling5",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling5.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling6",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling6.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling7",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling7.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling8",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling8.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling9",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling9.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling10",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling10.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling11",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling11.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling12",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling12.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ballrolling13",
+    "path": "C:\\VPX\\sounds\\fx_ballrolling13.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_bumper1",
+    "path": "C:\\VPX\\sounds\\fx_bumper1.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_bumper2",
+    "path": "C:\\VPX\\sounds\\fx_bumper2.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_bumper3",
+    "path": "C:\\VPX\\sounds\\fx_bumper3.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_bumper4",
+    "path": "C:\\VPX\\sounds\\fx_bumper4.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_collide",
+    "path": "C:\\VPX\\sounds\\fx_collide.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_Flipperdown",
+    "path": "C:\\VPX\\sounds\\fx_Flipperdown.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_Flipperup",
+    "path": "C:\\VPX\\sounds\\fx_Flipperup.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_rubber2",
+    "path": "C:\\VPX\\sounds\\fx_rubber2.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_spinner",
+    "path": "C:\\VPX\\sounds\\fx_spinner.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "gate",
+    "path": "C:\\VPX\\sounds\\gate.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "gate4",
+    "path": "C:\\VPX\\sounds\\gate4.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "kicker_enter_center",
+    "path": "C:\\VPX\\sounds\\kicker_enter_center.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "knocker",
+    "path": "C:\\VPX\\sounds\\knocker.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "left_slingshot",
+    "path": "C:\\VPX\\sounds\\left_slingshot.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "metalhit_medium",
+    "path": "C:\\VPX\\sounds\\metalhit_medium.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "metalhit_thin",
+    "path": "C:\\VPX\\sounds\\metalhit_thin.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "metalhit2",
+    "path": "C:\\VPX\\sounds\\metalhit2.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "pinhit_low",
+    "path": "C:\\VPX\\sounds\\pinhit_low.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "plunger",
+    "path": "C:\\VPX\\sounds\\plunger.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "plungerpull",
+    "path": "C:\\VPX\\sounds\\plungerpull.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "popper_ball",
+    "path": "C:\\VPX\\sounds\\popper_ball.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "right_slingshot",
+    "path": "C:\\VPX\\sounds\\right_slingshot.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "rubber_hit_1",
+    "path": "C:\\VPX\\sounds\\rubber_hit_1.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "rubber_hit_2",
+    "path": "C:\\VPX\\sounds\\rubber_hit_2.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "rubber_hit_3",
+    "path": "C:\\VPX\\sounds\\rubber_hit_3.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "target",
+    "path": "C:\\VPX\\sounds\\target.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ball_drop0",
+    "path": "C:\\fx_ball_drop0.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ball_drop1",
+    "path": "C:\\fx_ball_drop1.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ball_drop2",
+    "path": "C:\\fx_ball_drop2.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ball_drop3",
+    "path": "C:\\fx_ball_drop3.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ball_drop4",
+    "path": "C:\\fx_ball_drop4.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  },
+  {
+    "name": "fx_ball_drop5",
+    "path": "C:\\fx_ball_drop5.wav",
+    "internal_name": "",
+    "fade": 0,
+    "volume": 0,
+    "balance": 0,
+    "output_target": 0
+  }
+]

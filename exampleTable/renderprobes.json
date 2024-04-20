@@ -1,0 +1,28 @@
+[
+  {
+    "type_": 0,
+    "name": "Playfield Reflections",
+    "roughness": 0,
+    "reflection_plane": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.0
+    },
+    "reflection_mode": 6,
+    "trailing_data": [
+      4,
+      0,
+      0,
+      0,
+      69,
+      78,
+      68,
+      66,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

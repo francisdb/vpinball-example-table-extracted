@@ -1,0 +1,31 @@
+{
+  "Bumper": {
+    "center": {
+      "x": 383.52737,
+      "y": 481.73813
+    },
+    "radius": 45.0,
+    "is_timer_enabled": false,
+    "timer_interval": 200,
+    "threshold": 1.0,
+    "force": 7.0,
+    "scatter": 0.0,
+    "height_scale": 90.0,
+    "ring_speed": 1.0,
+    "orientation": 90.0,
+    "ring_drop_offset": 0.0,
+    "cap_material": "PlasticTrigger",
+    "base_material": "Plastic",
+    "socket_material": "Plastic Cobalt Blue",
+    "ring_material": "",
+    "surface": "",
+    "name": "Bumper5",
+    "is_cap_visible": true,
+    "is_base_visible": true,
+    "is_ring_visible": true,
+    "is_socket_visible": true,
+    "hit_event": true,
+    "is_collidable": true,
+    "is_reflection_enabled": true
+  }
+}

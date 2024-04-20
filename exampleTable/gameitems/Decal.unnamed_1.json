@@ -1,0 +1,27 @@
+{
+  "Decal": {
+    "center": {
+      "x": 478.58072,
+      "y": 12.129861
+    },
+    "width": 23.0,
+    "height": 962.0,
+    "rotation": 90.0,
+    "image": "sidewood",
+    "surface": "Wall350",
+    "name": "",
+    "text": "",
+    "decal_type": 1,
+    "material": "Plastic with an image",
+    "color": "#ff00ffff",
+    "sizing_type": 2,
+    "vertical_text": false,
+    "backglass": false,
+    "font": {
+      "style": [],
+      "weight": 900,
+      "size": 142500,
+      "name": "Arial Black"
+    }
+  }
+}

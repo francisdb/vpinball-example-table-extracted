@@ -1,0 +1,120 @@
+[
+  {
+    "name": "GI",
+    "items": [
+      "gi1",
+      "gi10",
+      "gi11",
+      "gi12",
+      "gi13",
+      "gi14",
+      "gi15",
+      "gi16",
+      "gi2",
+      "gi3",
+      "gi4",
+      "gi5",
+      "gi6",
+      "gi7",
+      "gi8",
+      "gi9"
+    ],
+    "fire_events": false,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Rubbers",
+    "items": [
+      "Rubber9",
+      "Rubber8",
+      "Rubber7",
+      "Rubber6",
+      "Rubber5",
+      "Rubber4",
+      "Rubber10",
+      "Rubber20",
+      "Rubber21",
+      "Rubber22",
+      "Rubber23",
+      "Rubber24",
+      "Rubber25",
+      "Rubber26",
+      "Rubber27",
+      "Rubber28",
+      "Rubber1",
+      "LSling",
+      "RSling"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Posts",
+    "items": [
+      "Primitive29",
+      "Primitive28",
+      "Primitive21",
+      "Primitive22",
+      "Primitive24",
+      "Primitive83"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Pins",
+    "items": [
+      "Pin1",
+      "Pin2"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Targets",
+    "items": [],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Metals_Thin",
+    "items": [],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Metals_Medium",
+    "items": [],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Metals2",
+    "items": [
+      "Wall1",
+      "Wall2",
+      "Wall20",
+      "Wall37"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  },
+  {
+    "name": "Gates",
+    "items": [
+      "Gate",
+      "Gate1"
+    ],
+    "fire_events": true,
+    "stop_single_events": false,
+    "group_elements": true
+  }
+]
