@@ -17,7 +17,7 @@
     "is_enabled": true,
     "hit_height": 50.0,
     "name": "Trigger2",
-    "shape": 4,
+    "shape": "button",
     "anim_speed": 1.0,
     "is_reflection_enabled": true,
     "drag_points": [

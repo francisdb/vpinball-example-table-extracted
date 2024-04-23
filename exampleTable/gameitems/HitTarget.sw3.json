@@ -12,7 +12,7 @@
     },
     "rot_z": 70.0,
     "image": "",
-    "target_type": 7,
+    "target_type": "drop_target_flat_simple",
     "name": "sw3",
     "material": "Plastic",
     "is_visible": true,

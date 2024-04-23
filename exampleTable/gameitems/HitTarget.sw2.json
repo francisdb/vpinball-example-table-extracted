@@ -12,7 +12,7 @@
     },
     "rot_z": 70.0,
     "image": "droptargetsimple",
-    "target_type": 2,
+    "target_type": "drop_target_simple",
     "name": "sw2",
     "material": "Plastic",
     "is_visible": true,

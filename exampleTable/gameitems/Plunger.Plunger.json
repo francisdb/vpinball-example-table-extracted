@@ -10,7 +10,7 @@
     "stroke": 180.0,
     "speed_pull": 0.25,
     "speed_fire": 100.0,
-    "plunger_type": 3,
+    "plunger_type": "custom",
     "anim_frames": 1,
     "material": "Plastic with an image",
     "image": "CustomWhiteTip",

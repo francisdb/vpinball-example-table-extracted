@@ -12,7 +12,7 @@
     },
     "rot_z": -75.0,
     "image": "hittarget",
-    "target_type": 3,
+    "target_type": "hit_target_round",
     "name": "sw11",
     "material": "Plastic",
     "is_visible": true,

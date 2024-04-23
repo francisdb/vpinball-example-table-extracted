@@ -1,6 +1,6 @@
 [
   {
-    "type_": 0,
+    "type_": "plane_reflection",
     "name": "Playfield Reflections",
     "roughness": 0,
     "reflection_plane": {
@@ -9,7 +9,7 @@
       "z": 1.0,
       "w": 0.0
     },
-    "reflection_mode": 6,
+    "reflection_mode": "unknown",
     "trailing_data": [
       4,
       0,

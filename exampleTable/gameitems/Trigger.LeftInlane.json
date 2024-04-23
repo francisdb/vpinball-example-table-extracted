@@ -17,7 +17,7 @@
     "is_enabled": true,
     "hit_height": 50.0,
     "name": "LeftInlane",
-    "shape": 6,
+    "shape": "wire_d",
     "anim_speed": 1.0,
     "is_reflection_enabled": true,
     "drag_points": [

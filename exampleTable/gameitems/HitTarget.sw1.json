@@ -12,7 +12,7 @@
     },
     "rot_z": 70.0,
     "image": "droptargetbeveled",
-    "target_type": 1,
+    "target_type": "drop_target_beveled",
     "name": "sw1",
     "material": "Plastic",
     "is_visible": true,

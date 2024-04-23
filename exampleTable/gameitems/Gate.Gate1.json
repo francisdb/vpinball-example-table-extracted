@@ -25,6 +25,6 @@
     "name": "Gate1",
     "two_way": true,
     "is_reflection_enabled": true,
-    "gate_type": "WireW"
+    "gate_type": "wire_w"
   }
 }

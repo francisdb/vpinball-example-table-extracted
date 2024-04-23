@@ -11,7 +11,7 @@
     "surface": "",
     "is_enabled": true,
     "name": "Kicker1",
-    "kicker_type": 0,
+    "kicker_type": "invisible",
     "scatter": 0.0,
     "hit_accuracy": 0.7,
     "hit_height": 40.0,
