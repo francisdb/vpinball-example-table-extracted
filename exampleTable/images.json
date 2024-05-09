@@ -2,798 +2,624 @@
   {
     "name": "metal3",
     "path": "E:\\Pinball\\Tables\\!Fire\\Images\\metal3.jpg",
-    "width": 400,
-    "height": 75,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Pinball\\Tables\\!Fire\\Images\\metal3.jpg",
       "name": "metal3"
-    },
-    "bits": false
+    }
   },
   {
     "name": "emkicker-t1",
     "path": "C:\\UPin\\emkicker-t1.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\UPin\\emkicker-t1.png",
       "name": "emkicker-t1"
-    },
-    "bits": false
+    }
   },
   {
     "name": "bumper-cap-t2(2)",
     "path": "C:\\UPin\\bumper-cap-t2(2).png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\UPin\\bumper-cap-t2(2).png",
       "name": "bumper-cap-t2(2)"
-    },
-    "bits": false
+    }
   },
   {
     "name": "bumper-cap-t5",
     "path": "C:\\UPin\\bumper-cap-t5.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\UPin\\bumper-cap-t5.png",
       "name": "bumper-cap-t5"
-    },
-    "bits": false
+    }
   },
   {
     "name": "ColorGradeLUT256x16_1to1",
     "path": "C:\\ColorGradeLUT256x16_1to1.png",
-    "width": 256,
-    "height": 16,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\ColorGradeLUT256x16_1to1.png",
       "name": "ColorGradeLUT256x16_1to1"
-    },
-    "bits": false
+    }
   },
   {
     "name": "JPBall-Dark2",
     "path": "E:\\Pinball\\Tables\\Balls\\JPBall-Dark2.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Pinball\\Tables\\Balls\\JPBall-Dark2.png",
       "name": "JPBall-Dark2"
-    },
-    "bits": false
+    }
   },
   {
     "name": "Scratches",
     "path": "C:\\Models\\Scratches.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Models\\Scratches.png",
       "name": "Scratches"
-    },
-    "bits": false
+    }
   },
   {
     "name": "spinner",
     "path": "C:\\UPin\\spinner.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\UPin\\spinner.png",
       "name": "spinner"
-    },
-    "bits": false
+    }
   },
   {
     "name": "rubber-post-t1-black",
     "path": "C:\\UPin\\rubber-post-t1-black.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\UPin\\rubber-post-t1-black.png",
       "name": "rubber-post-t1-black"
-    },
-    "bits": false
+    }
   },
   {
     "name": "sidewood._h",
     "path": "C:\\UPin\\sidewood_h.png",
-    "width": 1024,
-    "height": 44,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\UPin\\sidewood_h.png",
       "name": "sidewood_h"
-    },
-    "bits": false
+    }
   },
   {
     "name": "ColorGradeLUT256x16_ConSat",
     "path": "C:\\ColorGradeLUT256x16_ConSat.png",
-    "width": 256,
-    "height": 16,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\ColorGradeLUT256x16_ConSat.png",
       "name": "ColorGradeLUT256x16_ConSat"
-    },
-    "bits": false
+    }
   },
   {
     "name": "sidewood",
     "path": "C:\\UPin\\sidewood.png",
-    "width": 44,
-    "height": 1024,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\UPin\\sidewood.png",
       "name": "sidewood"
-    },
-    "bits": false
+    }
   },
   {
     "name": "bumper-cap-t3",
     "path": "C:\\UPin\\bumper-cap-t3.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\UPin\\bumper-cap-t3.png",
       "name": "bumper-cap-t3"
-    },
-    "bits": false
+    }
   },
   {
     "name": "purple peg",
     "path": "E:\\Pinball\\Tables\\!Fire\\Images\\Red peg.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Pinball\\Tables\\!Fire\\Images\\Red peg.png",
       "name": "Red peg"
-    },
-    "bits": false
+    }
   },
   {
     "name": "DropTargetFlatSimple",
     "path": "E:\\Tables\\Models\\HitTargetFlatSimple.png",
-    "width": 128,
-    "height": 128,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Tables\\Models\\HitTargetFlatSimple.png",
       "name": "HitTargetFlatSimple"
-    },
-    "bits": false
+    }
   },
   {
     "name": "ColorGradeLUT256x16_Sepia",
     "path": "C:\\ColorGradeLUT256x16_Sepia.png",
-    "width": 256,
-    "height": 16,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\ColorGradeLUT256x16_Sepia.png",
       "name": "ColorGradeLUT256x16_Sepia"
-    },
-    "bits": false
+    }
   },
   {
     "name": "bumper-cap-t2",
     "path": "C:\\UPin\\bumper-cap-t2.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\UPin\\bumper-cap-t2.png",
       "name": "bumper-cap-t2"
-    },
-    "bits": false
+    }
   },
   {
     "name": "bumper-cap-t4",
     "path": "C:\\UPin\\bumper-cap-t4.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\UPin\\bumper-cap-t4.png",
       "name": "bumper-cap-t4"
-    },
-    "bits": false
+    }
   },
   {
     "name": "rubber-emwheel",
     "path": "C:\\Program Files (x86)\\Pinball\\Tables\\vp10 materials\\rubber-emwheel.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Program Files (x86)\\Pinball\\Tables\\vp10 materials\\rubber-emwheel.png",
       "name": "rubber-emwheel"
-    },
-    "bits": false
+    }
   },
   {
     "name": "CustomBlackTip",
     "path": "D:\\temp\\CustomBlackTip.png",
-    "width": 256,
-    "height": 341,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "D:\\temp\\CustomBlackTip.png",
       "name": "CustomBlackTip"
-    },
-    "bits": false
+    }
   },
   {
     "name": "DropTargetBeveled",
     "path": "E:\\Tables\\Models\\DropTargetBeveled.png",
-    "width": 128,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Tables\\Models\\DropTargetBeveled.png",
       "name": "DropTargetBeveled"
-    },
-    "bits": false
+    }
   },
   {
     "name": "aluminum",
     "path": "E:\\Pinball\\Tables\\!Fire\\Images\\aluminum.jpg",
-    "width": 512,
-    "height": 512,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Pinball\\Tables\\!Fire\\Images\\aluminum.jpg",
       "name": "aluminum"
-    },
-    "bits": false
+    }
   },
   {
     "name": "DropTargetSimple",
     "path": "E:\\Tables\\Models\\DropTargetSimple.png",
-    "width": 128,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Tables\\Models\\DropTargetSimple.png",
       "name": "DropTargetSimple"
-    },
-    "bits": false
+    }
   },
   {
     "name": "HitTarget",
     "path": "E:\\Tables\\Models\\HitTarget.png",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Tables\\Models\\HitTarget.png",
       "name": "HitTarget"
-    },
-    "bits": false
+    }
   },
   {
     "name": "CustomWhiteTip",
     "path": "D:\\temp\\CustomWhiteTip.png",
-    "width": 256,
-    "height": 341,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "D:\\temp\\CustomWhiteTip.png",
       "name": "CustomWhiteTip"
-    },
-    "bits": false
+    }
   },
   {
     "name": "ballshadow",
     "path": "C:\\Users\\HP i7\\Downloads\\VP_old\\makeover stuff\\ballshadow.png",
-    "width": 249,
-    "height": 252,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\HP i7\\Downloads\\VP_old\\makeover stuff\\ballshadow.png",
       "name": "ballshadow"
-    },
-    "bits": false
+    }
   },
   {
     "name": "Left_rail_brighter",
     "path": "E:\\Pinball\\Tables\\Materials\\Left_rail_brighter.png",
-    "width": 49,
-    "height": 2048,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Pinball\\Tables\\Materials\\Left_rail_brighter.png",
       "name": "Left_rail_brighter"
-    },
-    "bits": false
+    }
   },
   {
     "name": "Right_rail_brighter",
     "path": "E:\\Pinball\\Tables\\Materials\\Right_rail_brighter.png",
-    "width": 49,
-    "height": 2048,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Pinball\\Tables\\Materials\\Right_rail_brighter.png",
       "name": "Right_rail_brighter"
-    },
-    "bits": false
+    }
   },
   {
     "name": "flippers_shadow",
     "path": "C:\\Users\\HP i7\\Downloads\\VP_old\\makeover stuff\\flippers_shadow.png",
-    "width": 256,
-    "height": 512,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\HP i7\\Downloads\\VP_old\\makeover stuff\\flippers_shadow.png",
       "name": "flippers_shadow"
-    },
-    "bits": false
+    }
   },
   {
     "name": "kickerHoleWood",
     "path": "F:\\vp\\res\\kickerHoleWood.bmp",
-    "width": 512,
-    "height": 64,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
-    "jpeg": null,
-    "bits": true
+    "jpeg": null
   },
   {
     "name": "kickerGottlieb",
     "path": "F:\\vp\\res\\kickerGottlieb.bmp",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
-    "jpeg": null,
-    "bits": true
+    "jpeg": null
   },
   {
     "name": "kickerWilliams",
     "path": "F:\\vp\\res\\kickerWilliams.bmp",
-    "width": 256,
-    "height": 128,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
-    "jpeg": null,
-    "bits": true
+    "jpeg": null
   },
   {
     "name": "LockdownBarreal-JR",
     "path": "E:\\Pinball\\Tables\\Materials\\LockdownBarreal-JR.png",
-    "width": 1024,
-    "height": 125,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "E:\\Pinball\\Tables\\Materials\\LockdownBarreal-JR.png",
       "name": "LockdownBarreal-JR"
-    },
-    "bits": false
+    }
   },
   {
     "name": "p1-beachwood",
     "path": "C:\\Visual Pinball\\Natural-Maple.webp",
-    "width": 2048,
-    "height": 4096,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\Natural-Maple.webp",
       "name": "Natural-Maple"
-    },
-    "bits": false
+    }
   },
   {
     "name": "ball_HDR",
     "path": "C:\\ball_HDR.hdr",
-    "width": 256,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\ball_HDR.hdr",
       "name": "ball_HDR"
-    },
-    "bits": false
+    }
   },
   {
     "name": "PlungerCover",
     "path": "C:\\Visual Pinball\\PlungerCover.webp",
-    "width": 512,
-    "height": 512,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\PlungerCover.webp",
       "name": "PlungerCover"
-    },
-    "bits": false
+    }
   },
   {
     "name": "kickerCup",
     "path": "F:\\vp\\res\\kickerCup.bmp",
-    "width": 512,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
-    "jpeg": null,
-    "bits": true
+    "jpeg": null
   },
   {
     "name": "kickerT1",
     "path": "F:\\vp\\res\\kickerT1.bmp",
-    "width": 512,
-    "height": 256,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
-    "jpeg": null,
-    "bits": true
+    "jpeg": null
   },
   {
     "name": "bally_miniflipper_left",
     "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\bally_miniflipper\\bally_miniflipper_left.jpg",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\bally_miniflipper\\bally_miniflipper_left.jpg",
       "name": "bally_miniflipper_left"
-    },
-    "bits": false
+    }
   },
   {
     "name": "bally_miniflipper_right",
     "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\bally_miniflipper\\bally_miniflipper_right.jpg",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\bally_miniflipper\\bally_miniflipper_right.jpg",
       "name": "bally_miniflipper_right"
-    },
-    "bits": false
+    }
   },
   {
     "name": "angle",
     "path": "C:\\Visual Pinball\\angle.webp",
-    "width": 1200,
-    "height": 1200,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\angle.webp",
       "name": "angle"
-    },
-    "bits": false
+    }
   },
   {
     "name": "gottlieb_flipper_red",
     "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\newer_gottlieb_flipper\\gottlieb_flipper_red.jpg",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Users\\borgd\\Documents\\OneDrive\\Pinball\\_Resources\\flippers\\newer_gottlieb_flipper\\gottlieb_flipper_red.jpg",
       "name": "gottlieb_flipper_red"
-    },
-    "bits": false
+    }
   },
   {
     "name": "mm",
     "path": "C:\\Visual Pinball\\mm.webp",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\mm.webp",
       "name": "mm"
-    },
-    "bits": false
+    }
   },
   {
     "name": "flipper_williams_logo_Left",
     "path": "C:\\Visual Pinball\\flipper_williams_logo_Left.webp",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\flipper_williams_logo_Left.webp",
       "name": "flipper_williams_logo_Left"
-    },
-    "bits": false
+    }
   },
   {
     "name": "ApronGenericWilliams",
     "path": "C:\\Visual Pinball\\ApronGenericWilliams.webp",
-    "width": 1024,
-    "height": 512,
     "alpha_test_value": 128.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\ApronGenericWilliams.webp",
       "name": "ApronGenericWilliams"
-    },
-    "bits": false
+    }
   },
   {
     "name": "flipper_williams_logo_Right",
     "path": "C:\\Visual Pinball\\flipper_williams_logo_Right.webp",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\flipper_williams_logo_Right.webp",
       "name": "flipper_williams_logo_Right"
-    },
-    "bits": false
+    }
   },
   {
     "name": "flipperImage-test",
     "path": "C:\\Visual Pinball\\flipperImage-test.webp",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\flipperImage-test.webp",
       "name": "flipperImage-test"
-    },
-    "bits": false
+    }
   },
   {
     "name": "flipper_yellow_red_Left",
     "path": "C:\\Visual Pinball\\flipper_yellow_red_Left.webp",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\flipper_yellow_red_Left.webp",
       "name": "flipper_yellow_red_Left"
-    },
-    "bits": false
+    }
   },
   {
     "name": "flipperImage-testW",
     "path": "C:\\Visual Pinball\\flipperImage-testW.webp",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\flipperImage-testW.webp",
       "name": "flipperImage-testW"
-    },
-    "bits": false
+    }
   },
   {
     "name": "flipper_yellow_red_Right",
     "path": "C:\\Visual Pinball\\flipper_yellow_red_Right.webp",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\flipper_yellow_red_Right.webp",
       "name": "flipper_yellow_red_Right"
-    },
-    "bits": false
+    }
   },
   {
     "name": "inches",
     "path": "C:\\Visual Pinball\\inches.webp",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\inches.webp",
       "name": "inches"
-    },
-    "bits": false
+    }
   },
   {
     "name": "gottlieb_mini_flipper_left",
     "path": "C:\\Visual Pinball\\gottlieb_mini_flipper_left.webp",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\gottlieb_mini_flipper_left.webp",
       "name": "gottlieb_mini_flipper_left"
-    },
-    "bits": false
+    }
   },
   {
     "name": "gottlieb_mini_flipper_right",
     "path": "C:\\Visual Pinball\\gottlieb_mini_flipper_right.webp",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\gottlieb_mini_flipper_right.webp",
       "name": "gottlieb_mini_flipper_right"
-    },
-    "bits": false
+    }
   },
   {
     "name": "flipper_gottlieb_left",
     "path": "C:\\Visual Pinball\\flipper_gottlieb_left2.webp",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\flipper_gottlieb_left2.webp",
       "name": "flipper_gottlieb_left2"
-    },
-    "bits": false
+    }
   },
   {
     "name": "flipper_gottlieb_right",
     "path": "C:\\Visual Pinball\\flipper_gottlieb_right2.webp",
-    "width": 1024,
-    "height": 1024,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\flipper_gottlieb_right2.webp",
       "name": "flipper_gottlieb_right2"
-    },
-    "bits": false
+    }
   },
   {
     "name": "inchesandmm",
     "path": "C:\\Visual Pinball\\inchesandmm.webp",
-    "width": 2400,
-    "height": 900,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\Visual Pinball\\inchesandmm.webp",
       "name": "inchesandmm"
-    },
-    "bits": false
+    }
   },
   {
     "name": "environment",
     "path": "C:\\environment.hdr",
-    "width": 1024,
-    "height": 512,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\environment.hdr",
       "name": "environment"
-    },
-    "bits": false
+    }
   },
   {
     "name": "environment_shiny3blur4",
     "path": "C:\\VPX4\\tables\\makeover stuff\\environment_shiny3blur4.hdr",
-    "width": 1024,
-    "height": 512,
     "alpha_test_value": 1.0,
     "is_opaque": null,
     "is_signed": null,
     "jpeg": {
       "path": "C:\\VPX4\\tables\\makeover stuff\\environment_shiny3blur4.hdr",
       "name": "environment_shiny3blur4"
-    },
-    "bits": false
+    }
   }
 ]
