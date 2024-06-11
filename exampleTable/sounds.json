@@ -6,7 +6,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "drain",
@@ -15,7 +15,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "flip_hit_1",
@@ -24,7 +24,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "flip_hit_2",
@@ -33,7 +33,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "flip_hit_3",
@@ -42,7 +42,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling0",
@@ -51,7 +51,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling1",
@@ -60,7 +60,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling2",
@@ -69,7 +69,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling3",
@@ -78,7 +78,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling4",
@@ -87,7 +87,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling5",
@@ -96,7 +96,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling6",
@@ -105,7 +105,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling7",
@@ -114,7 +114,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling8",
@@ -123,7 +123,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling9",
@@ -132,7 +132,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling10",
@@ -141,7 +141,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling11",
@@ -150,7 +150,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling12",
@@ -159,7 +159,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ballrolling13",
@@ -168,7 +168,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_bumper1",
@@ -177,7 +177,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_bumper2",
@@ -186,7 +186,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_bumper3",
@@ -195,7 +195,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_bumper4",
@@ -204,7 +204,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_collide",
@@ -213,7 +213,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_Flipperdown",
@@ -222,7 +222,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_Flipperup",
@@ -231,7 +231,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_rubber2",
@@ -240,7 +240,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_spinner",
@@ -249,7 +249,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "gate",
@@ -258,7 +258,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "gate4",
@@ -267,7 +267,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "kicker_enter_center",
@@ -276,7 +276,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "knocker",
@@ -285,7 +285,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "left_slingshot",
@@ -294,7 +294,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "metalhit_medium",
@@ -303,7 +303,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "metalhit_thin",
@@ -312,7 +312,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "metalhit2",
@@ -321,7 +321,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "pinhit_low",
@@ -330,7 +330,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "plunger",
@@ -339,7 +339,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "plungerpull",
@@ -348,7 +348,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "popper_ball",
@@ -357,7 +357,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "right_slingshot",
@@ -366,7 +366,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "rubber_hit_1",
@@ -375,7 +375,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "rubber_hit_2",
@@ -384,7 +384,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "rubber_hit_3",
@@ -393,7 +393,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "target",
@@ -402,7 +402,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ball_drop0",
@@ -411,7 +411,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ball_drop1",
@@ -420,7 +420,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ball_drop2",
@@ -429,7 +429,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ball_drop3",
@@ -438,7 +438,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ball_drop4",
@@ -447,7 +447,7 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   },
   {
     "name": "fx_ball_drop5",
@@ -456,6 +456,6 @@
     "fade": 0,
     "volume": 0,
     "balance": 0,
-    "output_target": 0
+    "output_target": "table"
   }
 ]
